@@ -1,7 +1,11 @@
+# A Novel Benchmark for Rice Lodging Assessment with X-Band UAV-PolSAR and 3D-RLMamba
+This work proposes a novel framework for assessing rice lodging that combines the cutting-edge Unmanned Aerial Vehicle Polarimetric Synthetic Aperture Radar (UAV-PolSAR) with the state-of-the-art (SOTA) 3D Rice Lodging Mamba (3D-RLMamba). This novel framework establishes a
+comprehensive benchmark for the intelligent inversion of key lodging parameters, detailing aspects from data acquisition and feature construction to algorithm development and parameter calculation.
+
 # 📘 Dataset
 
 This dataset comes from UAV-mounted SAR observations and is designed for rice lodging detection and related research tasks.
- It provides training and testing sets along with a 15-layer SAR feature matrix, suitable for both machine learning and deep learning models.
+It provides training and testing sets along with a 15-layer SAR feature matrix, suitable for both machine learning and deep learning models.
 
 ## 📥 Dataset Download
 
@@ -56,11 +60,15 @@ print("Training labels shape:", TR.shape)
 print("Testing labels shape:", TE.shape)
 ```
 
-## 📜 Citation
+# 📜 Citation
+    @article
+       {Dashuai Wang, 2026,
+       tilte={A Novel Benchmark for Rice Lodging Assessment with X-Band UAV-PolSAR and 3D-RLMamba},
+       author={Dashuai Wang, Minghu Zhao, Zilin Wang, Kunbiao Lu, Changxing Geng*, Xiaoguang Liu*},
+       journal={Computers and Electronics in Agriculture},
+       doi={xxx},
+       volume={xx},
+       pages={xxx},
+       year={2026}
+    }
 
-If you use this dataset in your research, please cite:
-
-```bash
-Wang et al., A Novel Benchmark for Rice Lodging Assessment with X-Band UAV-PolSAR and 3D-RLMamba, 2025.
-GitHub: https://github.com/AG-WDS/3D-RLMamba
-```
