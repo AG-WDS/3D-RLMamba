@@ -4,6 +4,8 @@ comprehensive benchmark for the intelligent inversion of key lodging parameters,
 
 # 📘 Dataset
 
+Note: The dataset and code are restricted to validation and comparative analysis. Any use of this data for independent publications is prohibited in the absence of additional licensing or permissions. 
+
 This dataset comes from UAV-mounted SAR observations and is designed for rice lodging detection and related research tasks.
 It provides training and testing sets along with a 15-layer SAR feature matrix, suitable for both machine learning and deep learning models.
 
@@ -62,13 +64,13 @@ print("Testing labels shape:", TE.shape)
 
 # 📜 Citation
     @article
-       {Dashuai Wang, 2026,
+       {Dashuai Wang et al., 2026,
        tilte={A Novel Benchmark for Rice Lodging Assessment with X-Band UAV-PolSAR and 3D-RLMamba},
        author={Dashuai Wang, Minghu Zhao, Zilin Wang, Kunbiao Lu, Changxing Geng*, Xiaoguang Liu*},
        journal={Computers and Electronics in Agriculture},
-       doi={xxx},
-       volume={xx},
-       pages={xxx},
+       doi={https://doi.org/10.1016/j.compag.2026.111730},
+       volume={247},
+       article number={111730},
        year={2026}
     }
 
