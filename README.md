@@ -1,6 +1,7 @@
 # A Novel Benchmark for Rice Lodging Assessment with X-Band UAV-PolSAR and 3D-RLMamba
 This work proposes a novel framework for assessing rice lodging that combines the cutting-edge Unmanned Aerial Vehicle Polarimetric Synthetic Aperture Radar (UAV-PolSAR) with the state-of-the-art (SOTA) 3D Rice Lodging Mamba (3D-RLMamba). This novel framework establishes a
-comprehensive benchmark for the intelligent inversion of key lodging parameters, detailing aspects from data acquisition and feature construction to algorithm development and parameter calculation.
+comprehensive benchmark for the intelligent inversion of key lodging parameters, detailing aspects from data acquisition and feature construction to algorithm development and parameter calculation.  
+## Note: The dataset will be fully released after our other papers, which are currently under review, are officially published, which will take approximately 6 months.
 
 # ⚠ DATA & CODE Usage
 > [!IMPORTANT]
