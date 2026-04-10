@@ -6,17 +6,15 @@ comprehensive benchmark for the intelligent inversion of key lodging parameters,
 > [!IMPORTANT]
 > **Restrictions:** The dataset and code are restricted to validation and comparative analysis. Any use of this data for independent publications is prohibited in the absence of additional licensing or permissions.
 
-# 📘 Dataset
-
-Note: The dataset and code are restricted to validation and comparative analysis. Any use of this data for independent publications is prohibited in the absence of additional licensing or permissions. 
-
-This dataset comes from UAV-mounted SAR observations and is designed for rice lodging detection and related research tasks.
-It provides training and testing sets along with a 15-layer SAR feature matrix, suitable for both machine learning and deep learning models.
-
-## 📥 Dataset Download
+# 📥 Dataset Download
 
 Google Drive:
  **https://drive.google.com/file/d/1UNJHKd-LxBW74kwrvmZt4IktP9adHYda/view?usp=drive_link**
+
+# 📘 Dataset
+
+This dataset comes from UAV-mounted SAR observations and is designed for rice lodging detection and related research tasks.
+It provides training and testing sets along with a 15-layer SAR feature matrix, suitable for both machine learning and deep learning models.
 
 ## 🌾 15-layer SAR Feature Description (Feature List)
 
